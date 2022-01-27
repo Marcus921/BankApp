@@ -1,0 +1,6 @@
+542778 920318 Isa Malmgren 81131.0 Debit # 582622 0.0
+383552 980614 Mikael Zhu 4500.0 Debit # 203636 0.0
+952937 580514 Fatma Hadi 2600.0 Debit # 683563 0.0
+543643 061101 Vera Levi 7644.0 Debit # Placeholder 0.0
+25547 7894654 Marcus Malmgren 0.0 Debit # 111777 0.0
+579545 784512 h h 0.0 Debit # Placeholder 0.0
